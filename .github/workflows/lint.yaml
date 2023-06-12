@@ -1,0 +1,55 @@
+name: INI linter
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  push:
+    branches:
+      - "*"
+  pull_request:
+    branches:
+      - "main"
+      
+jobs:
+  deploy:
+    name: Lint INI files
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        
+      - name: Check PC-TransEngine.ini
+        id: TransEngine
+        run: |
+          ./linter/validini PC-TransEngine.ini
+          
+      - name: Check PC-TransGame.ini
+        id: TransGame
+        run: |
+          ./linter/validini PC-TransGame.ini
+          
+      - name: Check TransCustomization.ini
+        id: TransCustomization
+        run: |
+          ./linter/validini TransCustomization.ini
+          
+      - name: Check TransLevels.ini
+        id: TransLevels
+        run: |
+          ./linter/validini TransLevels.ini
+          
+      - name: Check TransPlaylists.ini
+        id: TransPlaylists
+        run: |
+          ./linter/validini TransPlaylists.ini
+          
+      - name: Check TransWeapons.ini
+        id: TransWeapons
+        run: |
+          ./linter/validini TransWeapons.ini

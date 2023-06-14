@@ -1,1 +1,20 @@
- 
+[TnGameReplicationInfo]
+MessageOfTheDay=Patch 1.0 WIP
+
+[ShotgunLargerClip TnDataProvider_WeaponUpgrade]
+FriendlyName=melee_damage
+Description=placeholder
+
+[ShotgunFireInterval TnDataProvider_WeaponUpgrade]
+FriendlyName=less_spread
+Description=placeholder
+
+[ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
+FriendlyName=fire_interval_esc
+Description=placeholder
+
+[Metadata]
+EditedBy=Aibot
+Timestamp=14.06.2023
+Version=1.0 draft
+Changes=Additions for shotgun shanges 

@@ -6,8 +6,8 @@ FriendlyName=Heavy Hands
 Description=Increase melee damage
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Cyber Optics
-Description=Increases weapon accuracy
+FriendlyName=Force Feedback
+Description=Decrease weapon recoil
 
 [ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Catridge

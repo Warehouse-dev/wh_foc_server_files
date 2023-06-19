@@ -1,5 +1,5 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.0 is live!
+MessageOfTheDay=Patch 1.1 is live! EMP Grenade nerf is here, you can finally see clearly.
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Heavy Hands
@@ -15,7 +15,8 @@ Description=Increase the amount of ammo within a clip
 
 [Metadata]
 EditedBy=Aibot
-Timestamp=14.06.2023
-Version=1.0 draft
+Timestamp=19.06.2023
+Version=1.1 draft
 Changes=Additions for shotgun shanges 
 Changes=Proper names for new upgrades
+Changes=Patch 1.1 motd

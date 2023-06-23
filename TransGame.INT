@@ -1,5 +1,5 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.1 is live! EMP Grenade nerf is here, you can finally see clearly.
+MessageOfTheDay=Patch 1.2 is live! Titan tornado is coming to your location at alarming speed.
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Heavy Hands
@@ -20,3 +20,4 @@ Version=1.1 draft
 Changes=Additions for shotgun shanges 
 Changes=Proper names for new upgrades
 Changes=Patch 1.1 motd
+Changes=Patch 1.2 motd

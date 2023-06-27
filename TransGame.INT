@@ -1,5 +1,5 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.2 is live! Titan tornado is coming to your location at alarming speed.
+MessageOfTheDay=Patch 1.3 is live! Titans spin less. Hosts also should lag less.
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Heavy Hands
@@ -21,3 +21,4 @@ Changes=Additions for shotgun shanges
 Changes=Proper names for new upgrades
 Changes=Patch 1.1 motd
 Changes=Patch 1.2 motd
+Changes=Patch 1.3 motd

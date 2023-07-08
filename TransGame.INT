@@ -13,6 +13,11 @@ Description=Decrease weapon recoil
 FriendlyName=Ion Catridge
 Description=Increase the amount of ammo within a clip
 
+[HoverMovementBasedDrainRate TnDataProvider_Skill]
+FriendlyName=Synthetic Fuel
+Description=Increases Hover recharge rate
+// replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+
 [Metadata]
 EditedBy=Aibot
 Timestamp=19.06.2023

@@ -1,5 +1,5 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.3 is live! Titans spin less. Hosts also should lag less.
+MessageOfTheDay=Patch 1.4 is live! Destroyer will now... destroy?
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Heavy Hands
@@ -20,10 +20,11 @@ Description=Increases Hover recharge rate
 
 [Metadata]
 EditedBy=Aibot
-Timestamp=19.06.2023
-Version=1.1 draft
+Timestamp=08.07.2023
+Version=1.4
 Changes=Additions for shotgun shanges 
 Changes=Proper names for new upgrades
 Changes=Patch 1.1 motd
 Changes=Patch 1.2 motd
 Changes=Patch 1.3 motd
+Changes=Patch 1.4 motd and destroyer upgrade renaming

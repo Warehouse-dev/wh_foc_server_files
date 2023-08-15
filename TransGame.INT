@@ -1,5 +1,5 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.5 is live! Go go Scientists!
+MessageOfTheDay=Patch 1.6 is live!
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
@@ -45,3 +45,4 @@ Changes=Patch 1.2 motd
 Changes=Patch 1.3 motd
 Changes=Patch 1.4 motd and destroyer upgrade renaming
 Changes=Patch 1.5 motd
+Changes=Patch 1.6 motd

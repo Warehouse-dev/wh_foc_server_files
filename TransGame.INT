@@ -2,8 +2,9 @@
 MessageOfTheDay=Patch 1.5 is live! Go go Scientists!
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
-FriendlyName=Heavy Hands
-Description=Increase melee damage
+FriendlyName=Ion Cartridge
+Description=Increases the amount of ammo within a clip
+;; Reverting Heavy Hands back to Ion Cartridge
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
 FriendlyName=Force Feedback
@@ -16,7 +17,22 @@ Description=Increase the amount of ammo within a clip
 [HoverMovementBasedDrainRate TnDataProvider_Skill]
 FriendlyName=Synthetic Fuel
 Description=Increases Hover recharge rate
-// replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+;; Replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+
+[HeavyPistolFireInterval TnDataProvider_WeaponUpgrade]
+FriendlyName=Hyper Interlink
+Description=Speeds up reload time by 50%
+;; Replacing Sonic Blast with Hyper Interlink
+
+[SniperRifleHitsCharge TnDataProvider_WeaponUpgrade]
+FriendlyName=Tachyon Transmitter
+Description=Using Fine Aim no longer slows you down
+;; Replacing Dead Eye with Tachyon Transmitter
+
+[IonBlasterIncreaseAccuracy TnDataProvider_WeaponUpgrade]
+FriendlyName=Turbo Booster
+Description=Increases movement speed when hitting an enemy
+;; Replacing Cyber Optics with Turbo Booster
 
 [Metadata]
 EditedBy=Aibot

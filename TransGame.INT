@@ -1,5 +1,6 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.6 is live!
+MessageOfTheDay=Patch 1.6.2 is here! Titans can now be killed?!
+;; 1.6.2 motd?
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge

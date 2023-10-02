@@ -1,6 +1,6 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.6.2 is here! Titans can now be killed?!
-;; 1.6.2 motd?
+MessageOfTheDay=Patch 1.7 is here! Game is fixed?!
+;; 1.7 motd
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
@@ -34,6 +34,16 @@ Description=Using Fine Aim no longer slows you down
 FriendlyName=Turbo Booster
 Description=Increases movement speed when hitting an enemy
 ;; Replacing Cyber Optics with Turbo Booster
+
+[SniperRifleLargerClip TnDataProvider_WeaponUpgrade]
+FriendlyName=Dominator
+Description=Quickly chaining together kills significantly reduces charge time
+;; Replacing Ion Cartridge with Dominator
+
+[SentryResourceDrainRate TnDataProvider_Skill]
+FriendlyName=Sentry Armor
+Description=Increased plating gives the sentry more durability
+;; Replacing Resource Recycler with Sentry Armor
 
 [Metadata]
 EditedBy=Aibot

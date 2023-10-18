@@ -1,6 +1,6 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.7 is here! Game is fixed?!
-;; 1.7 motd
+MessageOfTheDay=Patch 1.6.3 is here! Game is fixed?!
+;; 1.6.3 motd
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge

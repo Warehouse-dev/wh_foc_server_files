@@ -8,17 +8,18 @@ Description=Increases the amount of ammo within a clip
 ;; Reverting Heavy Hands back to Ion Cartridge
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Force Feedback
-Description=Decrease weapon recoil
+FriendlyName=Cyber Optics
+Description=Increases weapon accuracy
+;; Renaming Force Feedback to Cyber Optics
 
 [ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Catridge
 Description=Increase the amount of ammo within a clip
 
 [HoverMovementBasedDrainRate TnDataProvider_Skill]
-FriendlyName=Synthetic Fuel
-Description=Increases Hover recharge rate
-;; Replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+FriendlyName=Aerial Camper
+Description=Increases Hover duration
+;; Renaming Synthetic Fuel to Aerial Camper
 
 [HeavyPistolFireInterval TnDataProvider_WeaponUpgrade]
 FriendlyName=Hyper Interlink
@@ -44,6 +45,37 @@ Description=Quickly chaining together kills significantly reduces charge time
 FriendlyName=Sentry Armor
 Description=Increased plating gives the sentry more durability
 ;; Replacing Resource Recycler with Sentry Armor
+
+[IonBlasterLargerClip TnDataProvider_WeaponUpgrade]
+FriendlyName=Amplifier Pak
+Description=Increases the amount of reserve ammo
+;; Replacing Ion Cartridge with Amplifier Pak
+
+[pCloakResourceDrainRate TnDataProvider_Skill]
+FriendlyName=Dimensional Step
+Description=Reduces damage taken after exiting Cloak
+;; Replacing Specter with Dimensional Step
+
+[BarrierOneWayView TnDataProvider_Skill]
+FriendlyName=Blaster Amplifier
+Description=Increases ammo capacity for all weapons
+;; Replacing One-Way Barrier with Blaster Amplifier
+
+[HeavyMGIncreaseAccuracy TnDataProvider_WeaponUpgrade]
+FriendlyName=Energon Rush
+Description=Increases weapon accuracy
+MpDescription=Increases foot speed while the weapon is firing
+;; Replacing Cyber Optics with Energon Rush
+
+[ChainBeamLargerClip TnDataProvider_WeaponUpgrade]
+FriendlyName=Hyper Interlink
+Description=Speeds up reload time
+;; Replacing Ion Cartridge with Hyper Interlink
+
+[DrainGunRange TnDataProvider_WeaponUpgrade]
+FriendlyName=Cyber Optics
+Description=Increases weapon accuracy
+;; Replacing R-Infinity Finder with Cyber Optics
 
 [Metadata]
 EditedBy=Aibot

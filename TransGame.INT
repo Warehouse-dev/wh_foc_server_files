@@ -51,7 +51,7 @@ FriendlyName=Amplifier Pak
 Description=Increases the amount of reserve ammo
 ;; Replacing Ion Cartridge with Amplifier Pak
 
-[pCloakResourceDrainRate TnDataProvider_Skill]
+[CloakResourceDrainRate TnDataProvider_Skill]
 FriendlyName=Dimensional Step
 Description=Reduces damage taken after exiting Cloak
 ;; Replacing Specter with Dimensional Step

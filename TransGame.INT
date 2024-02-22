@@ -1,24 +1,25 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.7 is here! Game is fixed?! Or not? I'm a mere motd message and I have no idea.
-;; 1.6.3 motd
+MessageOfTheDay=Patch 1.8 has arrived! Here's to another year of Fall of Cybertron.
+;; 1.8 motd??
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
 Description=Increases the amount of ammo within a clip
-;; Reverting Heavy Hands back to Ion Cartridge
+;; Replacing Heavy Hands with Ion Cartridge
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
 FriendlyName=Force Feedback
-Description=Decrease weapon recoil
+Description=Reduces weapon recoil
+;; Replacing Sonic Blast with Force Feedback
 
 [ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Catridge
 Description=Increase the amount of ammo within a clip
 
 [HoverMovementBasedDrainRate TnDataProvider_Skill]
-FriendlyName=Synthetic Fuel
-Description=Increases Hover recharge rate
-;; Replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+FriendlyName=Aerial Camper
+Description=Increases Hover duration
+;; Renaming Synthetic Fuel to Aerial Camper
 
 [HeavyPistolFireInterval TnDataProvider_WeaponUpgrade]
 FriendlyName=Hyper Interlink
@@ -44,6 +45,27 @@ Description=Quickly chaining together kills significantly reduces charge time
 FriendlyName=Sentry Armor
 Description=Increased plating gives the sentry more durability
 ;; Replacing Resource Recycler with Sentry Armor
+
+[CloakResourceDrainRate TnDataProvider_Skill]
+FriendlyName=Dimensional Step
+Description=Reduces damage taken after exiting Cloak
+;; Replacing Specter with Dimensional Step ;; 11/2/2024 -legion
+
+[BarrierOneWayView TnDataProvider_Skill]
+FriendlyName=Blaster Amplifier
+Description=Increases ammo capacity for all weapons
+;; Replacing One-Way Barrier with Blaster Amplifier ;; 11/2/2024 -legion
+
+[HeavyMGIncreaseAccuracy TnDataProvider_WeaponUpgrade]
+FriendlyName=Energon Rush
+Description=Increases weapon accuracy
+MpDescription=Increases foot speed while the weapon is firing
+;; Replacing Cyber Optics with Energon Rush ;; 11/2/2024 -legion
+
+[DrainGunRange TnDataProvider_WeaponUpgrade]
+FriendlyName=Cyber Optics
+Description=Increases weapon accuracy
+;; Replacing R-Finder Infinity with Cyber Optics ;; 11/2/2024 -legion
 
 [Metadata]
 EditedBy=Aibot

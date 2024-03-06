@@ -1,6 +1,6 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.8 has arrived! Here's to another year of Fall of Cybertron.
-;; 1.8 motd??
+MessageOfTheDay=Patch 1.8.1 has arrived! Here's to another year of Fall of Cybertron.
+;; 1.8.1 motd??
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
